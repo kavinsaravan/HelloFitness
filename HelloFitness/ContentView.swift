@@ -47,17 +47,10 @@ struct ContentView: View {
     }
 }
 
-struct HomeView: View {
-    var body: some View {
-        VStack {
-            Text("Hello!")
-                .font(.largeTitle)
-                .fontWeight(.bold)
-            Spacer()
-        }
-        .padding()
-    }
-}
+
+
+
+
 
 //struct FoodLogView: View {
 //    var body: some View {
@@ -70,6 +63,7 @@ struct HomeView: View {
 //        .padding()
 //    }
 //}
+
 
 struct WorkoutsView: View {
     var body: some View {

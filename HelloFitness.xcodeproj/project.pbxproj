@@ -15,6 +15,7 @@
 		AE48F1FF2DE44DBF006DD5E2 /* HelloFitnessUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE48F1FE2DE44DBF006DD5E2 /* HelloFitnessUITests.swift */; };
 		AE48F2012DE44DBF006DD5E2 /* HelloFitnessUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE48F2002DE44DBF006DD5E2 /* HelloFitnessUITestsLaunchTests.swift */; };
 		AE48F20E2DE45283006DD5E2 /* FoodLog.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE48F20D2DE45283006DD5E2 /* FoodLog.swift */; };
+		AE48F2122DE52F35006DD5E2 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE48F2112DE52F35006DD5E2 /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AE48F1FE2DE44DBF006DD5E2 /* HelloFitnessUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloFitnessUITests.swift; sourceTree = "<group>"; };
 		AE48F2002DE44DBF006DD5E2 /* HelloFitnessUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloFitnessUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		AE48F20D2DE45283006DD5E2 /* FoodLog.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodLog.swift; sourceTree = "<group>"; };
+		AE48F2112DE52F35006DD5E2 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				AE48F1E22DE44DBE006DD5E2 /* HelloFitnessApp.swift */,
 				AE48F1E42DE44DBE006DD5E2 /* ContentView.swift */,
 				AE48F20D2DE45283006DD5E2 /* FoodLog.swift */,
+				AE48F2112DE52F35006DD5E2 /* Home.swift */,
 				AE48F1E62DE44DBF006DD5E2 /* Assets.xcassets */,
 				AE48F1E82DE44DBF006DD5E2 /* HelloFitness.entitlements */,
 				AE48F1E92DE44DBF006DD5E2 /* Preview Content */,
@@ -264,6 +267,7 @@
 			files = (
 				AE48F20E2DE45283006DD5E2 /* FoodLog.swift in Sources */,
 				AE48F1E52DE44DBE006DD5E2 /* ContentView.swift in Sources */,
+				AE48F2122DE52F35006DD5E2 /* Home.swift in Sources */,
 				AE48F1E32DE44DBE006DD5E2 /* HelloFitnessApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
